@@ -4,6 +4,16 @@ body{
 h1{
     margin-top: 0;
 }
-div{
+.homepage{
     background: #e4f9f5;
+}
+.main{
+    background: black;
+    height: 200px;
+    width: 200px;
+}
+.bottom{
+    background: blue;
+    height: 200px;
+    width: 200px;
 }
